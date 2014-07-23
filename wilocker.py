@@ -27,6 +27,9 @@ As well as the GPIO port (http://raspi.tv/2013/how-to-use-interrupts-with-python
 Also the servo library (http://www.raspihub.com/go/aa9b4e13ca60447a26b16470fd5c477df801b00d6fbf7ac7f76e0467801d472e)
 
 Possibly add two transistors to control power to the servo as well as the control signal itself (both should be 5v and the pi uses 3.3v) 
+
+Updated: 7/23/14
+This method doesn't work. It scans (much too slowly) but when phones go asleep they don't always respond especially being pinged every second. So we need a new method.
 """
 
 import os
