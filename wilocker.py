@@ -20,7 +20,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-Modifed by Matthew Carlson on 7/3/2014 add new functionality
+Modifed by Matthew Carlson on 7/27/2014 add new functionality
 
 Using the nmap library (https://pypi.python.org/pypi/python-nmap)
 As well as the GPIO port (http://raspi.tv/2013/how-to-use-interrupts-with-python-on-the-raspberry-pi-and-rpi-gpio-part-3)
